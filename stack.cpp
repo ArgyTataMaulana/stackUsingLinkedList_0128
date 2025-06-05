@@ -75,5 +75,11 @@ class Stack
             }
             cout <<endl;
         }//return the value of the top node
-    }
+        }
 };
+
+int main()
+{
+    
+    
+}
