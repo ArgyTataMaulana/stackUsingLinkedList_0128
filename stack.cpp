@@ -14,3 +14,11 @@ class Node
         }
 };
 
+//stackclass
+class Stack
+{
+    private:
+    Node *top;// pointerto the top node of the stack
+
+    
+};
