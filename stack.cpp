@@ -104,6 +104,10 @@ int main()
             stack.push(value); // push the entered value onto the stack
             break;
         
+        case 2:
+        stack.pop(); // pop the top value from the stack
+        break;
+        
         }
     }
     
